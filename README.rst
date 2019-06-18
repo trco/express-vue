@@ -43,5 +43,6 @@ How to build it from scratch?
 
     $ vue create front
 
+7. Fetch data from Express backend through "http://localhost:8000/<path>" inside .vue files.
 
-7. Create separate ``Dockerfile`` in back and front apps and ``docker-compose.yml`` in project folder.
+8. Create separate ``Dockerfile`` in back and front apps and ``docker-compose.yml`` in project folder.
